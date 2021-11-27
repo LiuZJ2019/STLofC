@@ -1,0 +1,25 @@
+Host liuzhoujie3-1
+  HostName 120.236.247.203
+  Port 24938
+  User root
+
+Host liuzhoujie4-2
+  HostName 120.236.247.203
+  Port 20062
+  User root
+
+Host liuzhoujie4-4
+  HostName 120.236.247.203
+  Port 22178
+  User root
+
+Host liuzhoujie4-5
+  HostName 120.236.247.203
+  Port 23033
+  User root
+
+
+Host liuzhoujie7-2
+  HostName 120.236.247.203
+  Port 32514
+  User root
